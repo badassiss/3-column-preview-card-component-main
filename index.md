@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/badassiss/3-column-preview-card-component-main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <link rel="stylesheet" href="essai.css"> </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <table>
+        <tr>
+            <td id="sedan">
+                <img src="file:///C:/Users/PersoPc/Documents/3-column-preview-card-component-main/images/icon-sedans.svg" class="num1">
+                <h2>SEDANS</h2>
+                <p>choose a sedan for its affordability and excellent fuel economy. Ideal for crusing in the city or on your next road trip. </p>
+                <input type="button" onclick="window.location.href = 'https://http://www.sedan.fr/';" value="learn more" id="r1" />
+            </td>
+            <td id="suv">
+                <img src="file:///C:/Users/PersoPc/Documents/3-column-preview-card-component-main/images/icon-suvs.svg" class="num2">
+                <h2> SUVS </h2>
+                <p>take an suvs for its spacious interior power and versatility.perfect for your next family vacation and off-road adventures.</p>
+                <input type="button" onclick="window.location.href = 'https://https://www.caroom.fr/guide/voiture-neuve/comment-choisir/carrosserie/suv';" value="learn more" id="r2" />
+            </td>
+            <td id="luxury">
+                <img src="file:///C:/Users/PersoPc/Documents/3-column-preview-card-component-main/images/icon-sedans.svg" class="num3">
+                <h2> LUXURY </h2>
+                <P>cruise in the best car brands without the bloated prices enjoy the enhanced comfort in a luxury rental and arrive in style.</P>
+                </P>
+                <input type="button" onclick="window.location.href = 'https://https://www.caranddriver.com/features/g22108206/big-full-size-luxury-sedan/';" value="learn more" id="r3" />
+            </td>
+        </tr>
+    </table>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/badassiss/3-column-preview-card-component-main/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
