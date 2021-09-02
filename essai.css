@@ -1,0 +1,60 @@
+    body {
+        background-color: hsl(0, 0%, 95%);
+    }
+    
+    table {
+        border-spacing: 0px;
+        padding: 80px 150px 80px 150px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+    
+    #sedan {
+        background-color: hsl(31, 77%, 52%);
+    }
+    
+    #suv {
+        background-color: hsl(184, 100%, 22%);
+    }
+    
+    #luxury {
+        background-color: hsl(179, 100%, 13%);
+    }
+    
+    img {
+        margin: 30px 0px 0px 90px;
+    }
+    
+    h2 {
+        margin: 20px 0px 0px 90px;
+        color: hsl(0, 0%, 95%);
+    }
+    
+    p {
+        margin: 60px 60px 60px 90px;
+        font-family: 'Lexend Deca', sans-serif;
+        font-size: 15px;
+    }
+    
+    input {
+        margin: 40px 0px 60px 90px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    #r3 {
+        background-color: hsl(179, 100%, 13%);
+        color: hsl(0, 0%, 95%);
+    }
+    
+    #r2 {
+        background-color: hsl(184, 100%, 22%);
+        color: hsl(0, 0%, 95%);
+    }
+    
+    #r1 {
+        color: hsl(0, 0%, 95%);
+        background-color: hsl(31, 77%, 52%);
+    }
